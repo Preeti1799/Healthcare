@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.activity-bar {
+  @apply bg-gray-200 rounded-sm;
+}
+.activity-bar-filled {
+  @apply bg-blue-400 rounded-sm;
+}

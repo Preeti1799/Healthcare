@@ -1,0 +1,14 @@
+.app-container {
+  display: flex;
+  min-height: 100vh;
+  background-color: #f2f4f7;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
+}
+
+.dashboard-sections > * {
+  margin-bottom: 20px;
+}
